@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "A simple chat using sockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanAcosta7/Chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Ian Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanAcosta7/Chat/issues"
+  },
+  "homepage": "https://github.com/IanAcosta7/Chat#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
